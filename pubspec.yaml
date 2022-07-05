@@ -11,5 +11,5 @@ dependencies:
   meta: ^1.7.0
 
 dev_dependencies:
-  matan: ^1.0.0
+  neodart: ^0.1.0
   test: ^1.21.1
